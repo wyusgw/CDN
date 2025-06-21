@@ -183,7 +183,7 @@ install_pip_module() {
     
 
     cd /tmp
-    download "http://bt.fikkey.com/cdnfly/pymodule-master-20211219.tar.gz" "http://bt.fikkey.com/cdnfly/pymodule-master-20211219.tar.gz" "pymodule-master-20211219.tar.gz"
+    download "https://github.com/wyusgw/CDN/releases/download/v1.11.0/pymodule-master-20211219.tar.gz" "https://github.com/wyusgw/CDN/releases/download/v1.11.0/pymodule-master-20211219.tar.gz" "pymodule-master-20211219.tar.gz"
     tar xf pymodule-master-20211219.tar.gz
     cd pymodule-master-20211219
 
